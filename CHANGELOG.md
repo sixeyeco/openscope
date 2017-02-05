@@ -39,7 +39,7 @@
 
 ### Features
 - Enumerate magic number in RunwayModel [#269](https://github.com/openscope/openscope/issues/269)
-
+- Adds Theodore Francis State Memorial Airport (Providence) as per AIRAC 1610 [#107](https://github.com/openscope/openscope/issues/107)
 
 
 
