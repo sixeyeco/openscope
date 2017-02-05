@@ -21,7 +21,7 @@
 
 
 ### Features
-
+- Adds Ottawa Macdonald-Cartier International Airport as per AIRAC1701 [#108](https://github.com/openscope/openscope/issues/108)
 
 
 
