@@ -6,7 +6,7 @@
 
 
 ### Features
-
+- Updates Dublin (EIDW) - Improved procedures, add terrain, modified airspace, realistic traffic [#208](https://github.com/openscope/openscope/issues/208)
 
 
 
