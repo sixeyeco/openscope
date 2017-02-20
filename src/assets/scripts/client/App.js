@@ -33,7 +33,7 @@ const prop = {};
 require('./util');
 
 // saved as this.prop.version and this.prop.version_string
-const VERSION = [4, 0, 0];
+const VERSION = [4, 1, 2];
 
 // are you using a main loop? (you must call update() afterward disable/re-enable)
 let UPDATE = true;
@@ -489,6 +489,6 @@ export default class App {
         $(SELECTORS.DOM_SELECTORS.TOGGLE_LABELS).toggle(!_isEmpty(airport.maps));
         $(SELECTORS.DOM_SELECTORS.TOGGLE_RESTRICTED_AREAS).toggle((airport.restricted_areas || []).length > 0);
         $(SELECTORS.DOM_SELECTORS.TOGGLE_SIDS).toggle(!_isNil(this.navigationLibrary.sidCollection));
-        $(SELECTORS.DOM_SELECTORS.TOGGLE_TERRAIN).toggle(!_isEmpty(airport.terrain));
+        $(SELECTORS.DOM_SELECTORS.TOGGLE_TERRAIN).toggle(airport.data.has_terrain);
     }
 }
