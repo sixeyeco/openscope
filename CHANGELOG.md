@@ -39,8 +39,9 @@
 
 ### Features
 - Enumerate magic number in RunwayModel [#269](https://github.com/openscope/openscope/issues/269)
-
-
+- New airport: MDSD (Las Américas International Airport, Dominican Republic) [#288](https://github.com/openscope/openscope/issues/288)
+    - Includes Terrain and Video map
+    - Adds Copa Airlines (CMP) and PAWA Dominicana (PWD)
 
 
 
