@@ -39,8 +39,9 @@
 
 ### Features
 - Enumerate magic number in RunwayModel [#269](https://github.com/openscope/openscope/issues/269)
-
-
+- New Airport: KABQ (Albuquerque International Sunport, NM) [#327](https://github.com/openscope/openscope/issues/327)
+    - Includes Video Map
+    - Adds Mesa Airlines (ASH)
 
 
 
