@@ -39,7 +39,8 @@
 
 ### Features
 - Enumerate magic number in RunwayModel [#269](https://github.com/openscope/openscope/issues/269)
-
+- New Airport: KSTL (St. Louis Lambert International Airport, MO) [#349](https://github.com/openscope/openscope/issues/349)
+    - Includes Video Map
 
 
 
